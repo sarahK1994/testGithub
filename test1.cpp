@@ -5,3 +5,4 @@ int k = 3;
 int l = 4;
 
 float s=0;
+float t=1;
