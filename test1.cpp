@@ -3,3 +3,5 @@ else int k = 2;
 
 int k = 3;
 int l = 4;
+
+float s=0;
