@@ -15,3 +15,5 @@ float t=1;
 2eme commit sur brancheLoris11
 
 6eme commit sur master
+
+7eme commit sur master avant --amend
